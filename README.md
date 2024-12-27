@@ -60,8 +60,6 @@ This repository contains a dynamic and interactive Coffee Orders Sales Dashboard
 
 ---
 
-## License
-This project is licensed under the MIT License. Feel free to modify and use for educational purposes.
 
 ---
 
