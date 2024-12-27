@@ -58,8 +58,6 @@ This repository contains a dynamic and interactive Coffee Orders Sales Dashboard
 - Expand the dashboard to include customer segmentation analysis.
 - Automate data import and transformation using Power Query.
 
----
-
 
 ---
 
