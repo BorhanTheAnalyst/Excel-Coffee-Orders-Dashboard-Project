@@ -26,7 +26,8 @@ This repository contains a dynamic and interactive Coffee Orders Sales Dashboard
 ---
 
 ## Dashboard Preview
-![Screenshot 2024-12-27 123929](https://github.com/user-attachments/assets/d0ca864a-a900-436d-9b55-6f1791f63b0e)
+![image](https://github.com/user-attachments/assets/21626459-53f2-446a-83aa-d55b9974f18a)
+
 
 
 ---
