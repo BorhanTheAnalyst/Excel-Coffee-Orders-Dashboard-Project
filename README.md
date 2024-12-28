@@ -33,7 +33,7 @@ This repository contains a dynamic and interactive Coffee Orders Sales Dashboard
 ---
 
 ## How to Use
-1. Download the Excel file from the repository.
+1. Download the coffeeOrders_Project.xlsx Excel file from the repository.
 2. Open the file in Microsoft Excel (2016 or later for full functionality).
 3. Interact with the dashboard:
    - Use the **Timeline** to filter sales by date.
